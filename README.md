@@ -9,7 +9,7 @@ Granada, el 17 de febrero de 2017.
 
 | Quién | Qué                                      |
 | ----- | ---------------------------------------- |
-|       |                                          |
+| Elena Merelo      |   Introducción a Perl6 http://slides.com/elenamerelo/deck                                       |
 
 
 # Fotos
